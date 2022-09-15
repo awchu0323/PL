@@ -9,6 +9,8 @@
 # 課程筆記區
 
 課堂練習:
+ 
+ - [](https://github.com/awchu0323/PL/blob/main/0915%E8%A9%A6.ipynb)
 
 # 作業連結區
 
