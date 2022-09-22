@@ -10,7 +10,7 @@
 
 
  W1:
- - [課堂筆記和練習](https://github.com/awchu0323/PL/tree/main/0915W1)
+ - [課堂測試和練習](https://github.com/awchu0323/PL/tree/main/0915W1)
  
  W2:
 
