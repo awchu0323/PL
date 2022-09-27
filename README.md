@@ -6,13 +6,13 @@
 
 系級:科技系二年級
 
-- [課程筆記區](https://github.com/awchu0323/PL#%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98%E5%8D%80)
+- [i.課程筆記區](https://github.com/awchu0323/PL#%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98%E5%8D%80)
 
-- [作業連結區](https://github.com/awchu0323/PL#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80)
+- [ii.作業連結區](https://github.com/awchu0323/PL#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80)
 
-- [專題連結區](https://github.com/awchu0323/PL#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80)
+- [iii.專題連結區](https://github.com/awchu0323/PL#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80)
 
-# 課程筆記區
+# i.課程筆記區
 
  ## W1(0908):
  
@@ -38,8 +38,8 @@
   ### 課堂習題:
  - [W3課堂習題](https://github.com/awchu0323/PL/tree/main/0922W2/0922%E8%AA%B2%E5%A0%82%E7%B7%B4%E7%BF%92)
  
-# 作業連結區
+# ii.作業連結區
 
  - [資料作業1](https://github.com/awchu0323/PL/blob/main/0922W2/0922%20%E4%BD%9C%E6%A5%AD.ipynb)
 
-# 專題連結區
+# iii.專題連結區
