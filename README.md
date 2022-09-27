@@ -22,6 +22,7 @@
  
  ## W2(0915):
  
+  ###基本訓練
  - [W2測試和課堂練習](https://github.com/awchu0323/PL/tree/main/0915W1)
  
  ## W3(0922):
