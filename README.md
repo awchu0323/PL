@@ -33,6 +33,7 @@
  - [W3資料列表](https://github.com/awchu0323/PL/blob/main/0922W2/0922%E4%B8%8A%E8%AA%B2%E6%B8%AC%E8%A9%A6.ipynb)
   
   2.字串
+  -[W3字串練習](https://github.com/awchu0323/PL/blob/main/0922W2/w3%20%E5%AD%97%E4%B8%B2.ipynb)
   ### 課堂習題:
  - [W3課堂習題](https://github.com/awchu0323/PL/tree/main/0922W2/0922%E8%AA%B2%E5%A0%82%E7%B7%B4%E7%BF%92)
  
