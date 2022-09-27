@@ -25,11 +25,12 @@
   ### 課程內容:
   
  1.基本訓練
- - [W2測試和課堂練習](https://github.com/awchu0323/PL/tree/main/0915W1)
+ - [W2上課和課堂練習](https://github.com/awchu0323/PL/tree/main/0915W1)
  
  ## W3(0922):
  
- - [W3測試](https://github.com/awchu0323/PL/blob/main/0922W2/0922%E4%B8%8A%E8%AA%B2%E6%B8%AC%E8%A9%A6.ipynb)
+  ### 課程練習:
+ - [W3上課](https://github.com/awchu0323/PL/blob/main/0922W2/0922%E4%B8%8A%E8%AA%B2%E6%B8%AC%E8%A9%A6.ipynb)
  - [W3課堂練習](https://github.com/awchu0323/PL/tree/main/0922W2/0922%E8%AA%B2%E5%A0%82%E7%B7%B4%E7%BF%92)
  
 # 作業連結區
