@@ -16,22 +16,24 @@
 
  ## W1(0908):
  
- 課程介紹
- 
- 程式下載
+ 1.課程介紹
+ 2.程式下載
  
  ## W2(0915):
  
   ### 課程內容:
   
- 1.基本訓練
- - [W2上課和課堂練習](https://github.com/awchu0323/PL/tree/main/0915W1)
+ 1.基本訓練和練習
+ - [W2上課和課堂習題](https://github.com/awchu0323/PL/tree/main/0915W1)
  
  ## W3(0922):
  
-  ### 課程練習:
+  ### 課程內容:
+  1.取得資料列表
  - [W3上課](https://github.com/awchu0323/PL/blob/main/0922W2/0922%E4%B8%8A%E8%AA%B2%E6%B8%AC%E8%A9%A6.ipynb)
- - [W3課堂練習](https://github.com/awchu0323/PL/tree/main/0922W2/0922%E8%AA%B2%E5%A0%82%E7%B7%B4%E7%BF%92)
+  2.字串
+  ### 課堂習題:
+ - [W3課堂習題](https://github.com/awchu0323/PL/tree/main/0922W2/0922%E8%AA%B2%E5%A0%82%E7%B7%B4%E7%BF%92)
  
 # 作業連結區
 
