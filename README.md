@@ -42,7 +42,7 @@
   
   ### 課程內容:
   1.dictionary
-  -[dictionary](https://github.com/awchu0323/PL/blob/main/0929W4/0929w4%20%E4%B8%8A%E8%AA%B2.ipynb)
+ - [dictionary](https://github.com/awchu0323/PL/blob/main/0929W4/0929w4%20%E4%B8%8A%E8%AA%B2.ipynb)
  
 # ii.作業連結區
 
