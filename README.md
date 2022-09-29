@@ -38,7 +38,7 @@
   ### 課堂習題:
  - [W3課堂習題](https://github.com/awchu0323/PL/blob/main/0922W2/W3%20%E8%AA%B2%E5%A0%82%E7%B7%B4%E7%BF%921.ipynb)
  
- ##W4(0929)
+ ## W4(0929)
   
   ### 課程內容:
   1.dictionary
