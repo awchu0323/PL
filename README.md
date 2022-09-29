@@ -38,6 +38,12 @@
   ### 課堂習題:
  - [W3課堂習題](https://github.com/awchu0323/PL/blob/main/0922W2/W3%20%E8%AA%B2%E5%A0%82%E7%B7%B4%E7%BF%921.ipynb)
  
+ ##W4(0929)
+  
+  ### 課程內容:
+  1.dictionary
+  -[dictionary](https://github.com/awchu0323/PL/blob/main/0929W4/0929w4%20%E4%B8%8A%E8%AA%B2.ipynb)
+ 
 # ii.作業連結區
 
  - [資料作業1](https://github.com/awchu0323/PL/blob/main/0922W2/0922%20%E4%BD%9C%E6%A5%AD.ipynb)
