@@ -46,6 +46,6 @@
  
 # ii.作業連結區
 
- - [資料作業1](https://github.com/awchu0323/PL/blob/main/0922W2/0922%20%E4%BD%9C%E6%A5%AD.ipynb)
+ - [資料作業1](https://github.com/awchu0323/PL/blob/main/%E4%BD%9C%E6%A5%AD1/%E4%BD%9C%E6%A5%AD1.ipynb)
 
 # iii.專題連結區
