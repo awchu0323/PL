@@ -23,29 +23,29 @@
  
   ### 課程內容:
   
- 1.基本訓練和練習
- - [W2上課和課堂習題](https://github.com/awchu0323/PL/tree/main/0915W1)
+   1.基本訓練和練習
+   - [W2上課和課堂習題](https://github.com/awchu0323/PL/tree/main/0915W1)
  
 * ## W3(0922):
  
   ### 課程內容:
-  1.取得資料列表
- - [W3資料列表](https://github.com/awchu0323/PL/blob/main/0922W2/0922%E4%B8%8A%E8%AA%B2%E6%B8%AC%E8%A9%A6.ipynb)
+   1.取得資料列表
+   - [W3資料列表](https://github.com/awchu0323/PL/blob/main/0922W2/0922%E4%B8%8A%E8%AA%B2%E6%B8%AC%E8%A9%A6.ipynb)
   
-  2.字串
- - [W3字串練習](https://github.com/awchu0323/PL/blob/main/0922W2/w3%20%E5%AD%97%E4%B8%B2.ipynb)
+   2.字串
+   - [W3字串練習](https://github.com/awchu0323/PL/blob/main/0922W2/w3%20%E5%AD%97%E4%B8%B2.ipynb)
   
   ### 課堂習題:
- - [W3課堂習題](https://github.com/awchu0323/PL/blob/main/0922W2/W3%20%E8%AA%B2%E5%A0%82%E7%B7%B4%E7%BF%921.ipynb)
+   - [W3課堂習題](https://github.com/awchu0323/PL/blob/main/0922W2/W3%20%E8%AA%B2%E5%A0%82%E7%B7%B4%E7%BF%921.ipynb)
  
- ## W4(0929)
+* ## W4(0929)
   
   ### 課程內容:
-  1.dictionary
- - [W4 dictionary](https://github.com/awchu0323/PL/blob/main/0929W4/0929w4%20%E4%B8%8A%E8%AA%B2.ipynb)
+   1.dictionary
+  - [W4 dictionary](https://github.com/awchu0323/PL/blob/main/0929W4/0929w4%20%E4%B8%8A%E8%AA%B2.ipynb)
  
 # ii.作業連結區
 
- - [資料作業1](https://github.com/awchu0323/PL/blob/main/%E4%BD%9C%E6%A5%AD1/%E4%BD%9C%E6%A5%AD1.ipynb)
+  - [資料作業1](https://github.com/awchu0323/PL/blob/main/%E4%BD%9C%E6%A5%AD1/%E4%BD%9C%E6%A5%AD1.ipynb)
 
 # iii.專題連結區
