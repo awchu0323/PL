@@ -24,13 +24,14 @@
   ### 課程內容:
   
    1.基本訓練和練習
-   (1) int : 整數
+    
+    (1) int : 整數
 
-   (2) float : 浮點數
+    (2) float : 浮點數
 
-   (3) str : 字串
- 
-   (4) bool : 布林值
+    (3) str : 字串
+   
+    (4) bool : 布林值
   
   - [W2上課習題和課後習題](https://github.com/awchu0323/PL/tree/main/0915W1)
  
