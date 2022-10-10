@@ -47,8 +47,11 @@
   ### 課堂習題:
   - [w4課後練習](https://github.com/awchu0323/PL/blob/main/0929W4/0929w4%20%E8%AA%B2%E5%A0%82%E7%B7%B4%E7%BF%92.ipynb)
   
+## W5(1006)  
+  
 # ii.作業連結區
 
-  - [資料作業1](https://github.com/awchu0323/PL/blob/main/%E4%BD%9C%E6%A5%AD1/%E4%BD%9C%E6%A5%AD1.ipynb)
+  - [作業1](https://github.com/awchu0323/PL/blob/main/%E4%BD%9C%E6%A5%AD1/%E4%BD%9C%E6%A5%AD1.ipynb)
+  - [作業2]()
 
 # iii.專題連結區
