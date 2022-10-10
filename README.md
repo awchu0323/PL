@@ -40,8 +40,14 @@
   
    2.字串
    
-     list[] : 可有次序的放入不同類型的資料
+     list[] : 有順序，可放入不同類型的資料
+     set{ } : 無序、元素不可重複，不可為串列
      
+     新增 : .append()/.insert()/.extend()
+     刪除 : del[]/.remove()/.pop()
+     
+     新增 : .add()/.update()
+     刪除 : .remove()/.pop()/.clear()
      
    - [W3字串練習](https://github.com/awchu0323/PL/blob/main/0922W2/w3%20%E5%AD%97%E4%B8%B2.ipynb)
   
