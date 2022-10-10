@@ -26,11 +26,8 @@
    1.基本訓練和練習
     
     (1) int : 整數
-
     (2) float : 浮點數
-
     (3) str : 字串
-   
     (4) bool : 布林值
   
   - [W2上課習題和課後習題](https://github.com/awchu0323/PL/tree/main/0915W1)
@@ -42,6 +39,10 @@
    - [W3資料列表](https://github.com/awchu0323/PL/blob/main/0922W2/0922%E4%B8%8A%E8%AA%B2%E6%B8%AC%E8%A9%A6.ipynb)
   
    2.字串
+   
+     list[] : 可有次序的放入不同類型的資料
+     
+     
    - [W3字串練習](https://github.com/awchu0323/PL/blob/main/0922W2/w3%20%E5%AD%97%E4%B8%B2.ipynb)
   
   ### 課堂習題:
