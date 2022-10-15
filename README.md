@@ -74,15 +74,15 @@
        [...] list    [^...]excluded
        (...) group
    
-  -[w6資料正則化](https://github.com/awchu0323/PL/blob/main/1013W6/W6%E8%B3%87%E6%96%99%E6%AD%A3%E8%B2%AC%E5%8C%96.ipynb) 
+   - [w6資料正則化](https://github.com/awchu0323/PL/blob/main/1013W6/W6%E8%B3%87%E6%96%99%E6%AD%A3%E8%B2%AC%E5%8C%96.ipynb) 
   
    ### 課堂習題:
    
-   -[w6課堂練習](https://github.com/awchu0323/PL/blob/main/1013W6/%E8%AA%B2%E5%A0%82%E7%BF%92%E9%A1%8C.ipynb)
+   - [w6課堂練習](https://github.com/awchu0323/PL/blob/main/1013W6/%E8%AA%B2%E5%A0%82%E7%BF%92%E9%A1%8C.ipynb)
    
 # ii.作業連結區
 
-  - [作業1](https://github.com/awchu0323/PL/blob/main/%E4%BD%9C%E6%A5%AD1/%E4%BD%9C%E6%A5%AD1.ipynb)
-  - [作業2](https://github.com/awchu0323/PL/blob/main/%E4%BD%9C%E6%A5%AD2/%E4%BD%9C%E6%A5%AD2.ipynb)
+   - [作業1](https://github.com/awchu0323/PL/blob/main/%E4%BD%9C%E6%A5%AD1/%E4%BD%9C%E6%A5%AD1.ipynb)
+   - [作業2](https://github.com/awchu0323/PL/blob/main/%E4%BD%9C%E6%A5%AD2/%E4%BD%9C%E6%A5%AD2.ipynb)
 
 # iii.專題連結區
