@@ -70,6 +70,8 @@
     (1)Character classes or groups:
        . any 
        | or
+       [...] list    [^...]excluded
+       (...) group
     
   
 # ii.作業連結區
