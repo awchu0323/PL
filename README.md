@@ -73,7 +73,13 @@
        | or
        [...] list    [^...]excluded
        (...) group
-   
+    (2)
+    (3)數量
+      * 0次或更多
+      + 1次或更多
+      ? 0或1次
+      {n}n次
+      
    - [w6資料正則化](https://github.com/awchu0323/PL/blob/main/1013W6/W6%E8%B3%87%E6%96%99%E6%AD%A3%E8%B2%AC%E5%8C%96.ipynb) 
   
    ### 課堂習題:
