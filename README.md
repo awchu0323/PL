@@ -25,9 +25,9 @@
   
    1.基本訓練和練習
     
-    (1) int : 整數
-    (2) float : 浮點數
-    (3) str : 字串
+     int : 整數
+     float : 浮點數
+     str : 字串
   
   - [W2上課習題和課後習題](https://github.com/awchu0323/PL/tree/main/0915W1)
  
@@ -62,7 +62,17 @@
   ### 課堂習題:
   - [w4課後練習](https://github.com/awchu0323/PL/blob/main/0929W4/0929w4%20%E8%AA%B2%E5%A0%82%E7%B7%B4%E7%BF%92.ipynb)
   
-## W5(1006)  
+## W5(1006) 
+
+## W6(1015)  
+  1.資料正則化
+  
+    (1)Character classes or groups:
+       . any 
+       | or
+       [...] list    [^...]excluded
+       (...) group
+    
   
 # ii.作業連結區
 
