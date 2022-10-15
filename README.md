@@ -64,7 +64,8 @@
   
 ## W5(1006) 
 
-## W6(1015)  
+## W6(1015) 
+ ### 課程內容:
   1.資料正則化
   
     (1)Character classes or groups:
@@ -72,8 +73,13 @@
        | or
        [...] list    [^...]excluded
        (...) group
-    
+   
+  -[w6資料正則化](https://github.com/awchu0323/PL/blob/main/1013W6/W6%E8%B3%87%E6%96%99%E6%AD%A3%E8%B2%AC%E5%8C%96.ipynb) 
   
+   ### 課堂習題:
+   
+   -[w6課堂練習](https://github.com/awchu0323/PL/blob/main/1013W6/%E8%AA%B2%E5%A0%82%E7%BF%92%E9%A1%8C.ipynb)
+   
 # ii.作業連結區
 
   - [作業1](https://github.com/awchu0323/PL/blob/main/%E4%BD%9C%E6%A5%AD1/%E4%BD%9C%E6%A5%AD1.ipynb)
