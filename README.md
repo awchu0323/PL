@@ -92,6 +92,10 @@
    - [w6資料正則化](https://github.com/awchu0323/PL/blob/main/1013W6/W6%E8%B3%87%E6%96%99%E6%AD%A3%E8%B2%AC%E5%8C%96.ipynb) 
   
 ## W7(1020) 
+
+ ### 課堂內容:
+  1.爬蟲
+  - [爬蟲ptt練習](https://github.com/awchu0323/PL/blob/main/%E4%BD%9C%E6%A5%AD3/%E7%88%AC%E8%9F%B2.ipynb)
  
 ## W8(1027)
    
