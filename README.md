@@ -98,7 +98,16 @@
   - [爬蟲ptt練習](https://github.com/awchu0323/PL/blob/main/%E4%BD%9C%E6%A5%AD3/%E7%88%AC%E8%9F%B2.ipynb)
  
 ## W8(1027)
-
+  1.資料彙整
+  
+    (1)data.loc[行標籤,列標籤]
+       ex:data.loc[1:5,["a","b","c","d"]]
+    
+    (2)data.iloc[行索引,列索引]
+       ex:data.loc[1:5,[2:4]]
+       ex2:data.loc[[1,3,5],[2,4]]
+          
+  - [資料彙整](https://github.com/awchu0323/PL/blob/main/1027W8/%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B41027.ipynb)
 ## W9(1103)
    
 # ii.作業連結區
