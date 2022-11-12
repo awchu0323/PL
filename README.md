@@ -48,6 +48,13 @@
      新增 : .add()/.update()
      刪除 : .remove()/.pop()/.clear()
      
+     num[1:4]     #start:end-1
+     num[:3]      #0:n項
+     num[:-3]     #0:(end-n)項
+     num[2:]      #n項:end
+     num[-2:]     #結尾前n項
+     num[:]       #all
+
    - [W3字串練習](https://github.com/awchu0323/PL/blob/main/0922W2/w3%20%E5%AD%97%E4%B8%B2.ipynb)
   
   ### 課堂習題:
