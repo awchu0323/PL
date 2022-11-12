@@ -48,6 +48,13 @@
      新增 : .add()/.update()
      刪除 : .remove()/.pop()/.clear()
      
+     num[1:4]     #start:end-1
+     num[:3]      #0:n項
+     num[:-3]     #0:(end-n)項
+     num[2:]      #n項:end
+     num[-2:]     #結尾前n項
+     num[:]       #all
+
    - [W3字串練習](https://github.com/awchu0323/PL/blob/main/0922W2/w3%20%E5%AD%97%E4%B8%B2.ipynb)
   
   ### 課堂習題:
@@ -98,7 +105,18 @@
   - [爬蟲ptt練習](https://github.com/awchu0323/PL/blob/main/%E4%BD%9C%E6%A5%AD3/%E7%88%AC%E8%9F%B2.ipynb)
  
 ## W8(1027)
-
+  1.資料彙整
+  
+    (1)data.loc[行標籤,列標籤]
+       ex:data.loc[1:5,["a","b","c","d"]]
+    
+    (2)data.iloc[行索引,列索引]
+       ex:data.loc[1:5,[2:4]]
+       ex2:data.loc[[1,3,5],[2,4]]
+       
+    (3)str.contains 尋找關鍵字，並傳回結果
+          
+  - [資料彙整](https://github.com/awchu0323/PL/blob/main/1027W8/%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B41027.ipynb)
 ## W9(1103)
    
 # ii.作業連結區
