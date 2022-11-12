@@ -116,7 +116,7 @@
        
     (3)str.contains 尋找關鍵字，並傳回結果
           
-  - [資料彙整](https://github.com/awchu0323/PL/blob/main/1027W8/%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B41027.ipynb)
+  - [資料彙整和練習](https://github.com/awchu0323/PL/blob/main/1027W8/%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B41027.ipynb)
 ## W9(1103)
    
 # ii.作業連結區
