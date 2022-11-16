@@ -124,5 +124,6 @@
    - [作業1-集合](https://github.com/awchu0323/PL/blob/main/%E4%BD%9C%E6%A5%AD1/%E4%BD%9C%E6%A5%AD1.ipynb)
    - [作業2-資料分析](https://github.com/awchu0323/PL/blob/main/%E4%BD%9C%E6%A5%AD2/%E4%BD%9C%E6%A5%AD2.ipynb)
    - [作業3-爬蟲](https://github.com/awchu0323/PL/blob/main/%E4%BD%9C%E6%A5%AD3/%E4%BD%9C%E6%A5%AD3.ipynb)
-
+   - [作業4-資料彙整](https://medium.com/@andrew20030323/臺北市街頭隨機搶奪案件分析-2b2b228a47bc)
+   - [作業4-資料彙整python](https://github.com/awchu0323/PL/blob/main/%E4%BD%9C%E6%A5%AD4/%E4%BD%9C%E6%A5%AD4.ipynb)
 # iii.專題連結區
